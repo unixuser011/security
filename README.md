@@ -1,4 +1,4 @@
-# DISCLAMER: This is not intented to take attention away from the orriginal designer of this Ansible role, this is just so that RH admins/Ansible users can continue to use this role
+# DISCLAMER: This is not intented to take attention away from the orriginal designer of this Ansible role, full credit goes to geerlingguy/security. Please support the offical source
 
 # I have not made any changes to the code that makes up this role, this is just an older version with RH support
 
